@@ -3,7 +3,7 @@
 $container['dynamic-views']=function($container){
 
   //instancia de vistas
-  $view = new \Slim\Views\Twig('../app/views',['cache'=>'../app/views/cache']);
+  $view = new \Slim\Views\Twig('../app/views',['cache'=>false]);
   $router = $container->get('router');
   $uri = \Slim\Http\Uri::createFromEnvironment(new \Slim\Http\Environment($_SERVER));
   $view->addExtension(new \Slim\Views\TwigExtension($router, $uri));

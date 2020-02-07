@@ -5,7 +5,7 @@
                 <!-- User -->
                 <div class="user-box">
                   <div class="user-img">
-                    <img src="{{ base_url() }}/extra/img/logo-pit-escudo.jpg" alt="user-img" title="Mat Helme" class="img-circle img-thumbnail img-responsive">
+                    <img src="{{ base_url() }}/extra/img/multiva.jpg" alt="user-img" title="Mat Helme" class="img-circle img-thumbnail img-responsive">
                   </div>
                   <h5><a href="{{ base_url()}}/#">{{user.user}}</a></h5>
                   <ul class="list-inline">

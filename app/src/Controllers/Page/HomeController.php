@@ -83,6 +83,27 @@ class HomeController extends Controller{
 
     }
 
+        //renderizamos pagina de inicio
+        public function info($request,$response,$args){
+
+            session_start();
+    
+            if(!isset($_SESSION['user'])){
+    
+                //redirigimos al inicio de sesion
+                return $response->withRedirect($this->globals['url'].'/user/signin');
+    
+            }
+            else{
+
+                //
+                echo('<a href="'.$this->globals['url'].'" >HOME</a>');
+                phpinfo();
+    
+            }
+    
+        }
+
 }
 
 ?>

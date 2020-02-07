@@ -2,7 +2,7 @@
         <div class="topbar">
           <!-- LOGO -->
           <div class="topbar-left">
-            <a href="{{ base_url() ~ '/' }}index.html" class="logo"><span>PIT<span>Sistemas</span></span><i class="zmdi zmdi-layers"></i></a>
+            <a href="{{ base_url() ~ '/' }}index.html" class="logo"><span>MULTIVA<span></span></span><i class="zmdi zmdi-layers"></i></a>
           </div>
           <!-- Button mobile view to collapse sidebar menu -->
           <div class="navbar navbar-default" role="navigation">

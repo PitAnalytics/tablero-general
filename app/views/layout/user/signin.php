@@ -15,7 +15,7 @@
         <div class="card">
 
           <div class="card-image px-4 py-4">
-            <img src="{{ base_url() }}/extra/img/logo-pit.jpg" class="card-img-top">
+            <img src="{{ base_url() }}/extra/img/multiva.jpg" class="card-img-top">
           </div>
 
           <div class="card-body">
