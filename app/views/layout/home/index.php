@@ -18,12 +18,12 @@
 {% block content %}
 <div class="wrapper">         
   <section id="parallax1">
-    <h1>Ofrecemos Servicios de Calidad</h1>
+    <h1>Business Analytics</h1>
   </section>
   <section id="parallax2">
   </section>
   <section id="parallax3">
-    <h1>Utilizamos la inteligencia en el negocio</h1>
+    <h1>Business Inteligence</h1>
   </section>
 </div>
 {% endblock %}
