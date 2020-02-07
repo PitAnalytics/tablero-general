@@ -29,7 +29,6 @@ require_once '../app/main/router/page/home.php';
 require_once '../app/main/router/page/user.php';
 require_once '../app/main/router/page/datastudio.php';
 require_once '../app/main/router/page/facturas.php';
-require_once '../app/main/router/page/balanza.php';
 /******************/
 /****EJECUTAMOS****/
 /******************/
