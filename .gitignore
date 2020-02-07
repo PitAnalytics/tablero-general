@@ -1,3 +1,4 @@
 composer/vendor/*
 composer/composer.lock
+composer/composer.json
 app/src/Config/Config.json
