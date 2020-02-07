@@ -5,9 +5,9 @@
     <meta name="description" content="A fully featured admin theme which can be used to build CRM, CMS, etc.">
     <meta name="author" content="Coderthemes">
     <!-- App Favicon -->
-    <link rel="shortcut icon" href="{{ base_url() }}/extra/img/logo-pit-escudo.jpg">
+    <link rel="shortcut icon" href="{{ base_url() }}/extra/img/multiva.jpg">
     <!-- App title -->
-    <title>PIT Sistemas</title>
+    <title>Multiva</title>
     <!-- App CSS -->
     <link href="{{ base_url() }}/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
     <link href="{{ base_url() }}/assets/css/core.css" rel="stylesheet" type="text/css" />
